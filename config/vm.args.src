@@ -1,0 +1,6 @@
+-sname 'erlnova_restapi'
+
+-setcookie erlnova_restapi_cookie
+
++K true
++A30
